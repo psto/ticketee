@@ -2,12 +2,12 @@
 <html>
   <head>
   <title>
-    <% if content_for?(:title) %> 
-      <%= yield(:title) %> 
-    <% else %> 
-      Ticketee 
-    <% end %> 
-  </title> 
+    <% if content_for?(:title) %>
+      <%= yield(:title) %>
+    <% else %>
+      Ticketee
+    <% end %>
+  </title>
     <%= csrf_meta_tags %>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
