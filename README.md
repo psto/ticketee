@@ -1,24 +1,7 @@
-# README
+# Ticketee
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A ticket-tracking application that includes RESTful routing, authentication
+and authorization, file uploads, email, and more.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Credit to [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action).
+However, completed using Rails 5.
